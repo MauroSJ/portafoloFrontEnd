@@ -14,3 +14,4 @@ git config user.password "Contraseña" : para esto debemos crear un token
     Select scopers: repo
   7-Generar token
   8-copiamos token y pegamos en el codigo de github
+  git status: vemos el estado en el que esta nuestro proyecto
