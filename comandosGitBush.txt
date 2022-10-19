@@ -14,4 +14,11 @@ git config user.password "Contraseña" : para esto debemos crear un token
     Select scopers: repo
   7-Generar token
   8-copiamos token y pegamos en el codigo de github
-  git status: vemos el estado en el que esta nuestro proyecto
+git status: vemos el estado en el que esta nuestro proyecto
+git commmit -m "mensaje" : permite guardar en el repositorio local,dando el mensaje de cambio
+git log: muestra nuestros commits,
+   el nombre de cada commit (relacion con un codigo) 
+   tambien el author del commit
+   la fecha de modificacion y 
+   por ultimo el mensaje que se le agrego al commit
+  
