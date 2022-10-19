@@ -1,0 +1,16 @@
+pwd: permite ver en que carpeta me encuentro.
+git init: inicializa un repositorio 
+code .: permite abrir el visual
+git config user.name "Nombre"
+git config user.email "Email con el que creamos la cuenta en github"
+git config user.password "Contraseña" : para esto debemos crear un token
+ 1- perfil
+ 2-setting
+ 3-developer settings
+ 4-personal access tokens
+ 5-generate new token
+ 6- Note: usuario que utilizara el token
+    Expiration: dias a utilizar
+    Select scopers: repo
+  7-Generar token
+  8-copiamos token y pegamos en el codigo de github
